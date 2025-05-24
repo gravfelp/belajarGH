@@ -1,2 +1,2 @@
 # belajarGH
-GONDRONG BIADAB
+MMK
