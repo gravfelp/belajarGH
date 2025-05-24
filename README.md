@@ -1,2 +1,2 @@
 # belajarGH
-balajar basic github
+gi gi okelah
