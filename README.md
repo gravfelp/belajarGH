@@ -1,2 +1,3 @@
 # belajarGH
 GONDRONG BIADAB
+tes
